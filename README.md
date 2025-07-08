@@ -1,5 +1,5 @@
 # Project-1
-My First Python Project! 
+My First Python Project!  
 🎮 Snake-Water-Gun: A Battle of Wits & Reflexes
 Step into the nostalgic world of classic Indian childhood games, reimagined with a modern twist in Python! Snake-Water-Gun is a compelling and intuitive command-line game that blends strategic choice-making with the thrill of unpredictability.
 
